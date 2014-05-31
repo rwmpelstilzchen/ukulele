@@ -1,10 +1,13 @@
-### Ukulele por komencantoj<br />אוּקַלֵּיקַלּוּת<br />Ukulele for beginners
+## Ukulelo por komencantoj<br />אוּקַלֵּיקַלּוּת<br />Ukulele for beginners
 
-Facilaj muzikaĵoj por la ukulelo, konvenaj por komencantoj.
+Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
+Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo), [MIDI](https://eo.wikipedia.org/wiki/MIDI) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto).
 
-נעימות פשוטות לאוקוללה, בטבלטורה. מתאימות למתחילים.
+נעימות פשוטות ל[אוקוללה](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%9C%D7%99), ב[טבלטורה](https://he.wikipedia.org/wiki/%D7%98%D7%91%D7%9C%D7%98%D7%95%D7%A8%D7%94_%D7%9C%D7%9B%D7%9C%D7%99%D7%9D_%D7%A9%D7%95%D7%A0%D7%99%D7%9D). מתאימות למתחילים.  
+פורמטים: [PDF](https://he.wikipedia.org/wiki/Portable_Document_Format), [MIDI](https://he.wikipedia.org/wiki/MIDI) ו־[TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (מקור).
 
-Simple ukulele pieces in tablature, suitable for absolute beginners.
+Simple [ukulele](https://en.wikipedia.org/wiki/Ukulele) pieces in [tablature](https://en.wikipedia.org/wiki/Tablature), suitable for absolute beginners.  
+File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format), [MIDI](https://en.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) and [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (source).
 
 dosiero    | latina alfabete       | hebrea alfabete      | piktogramo | komposisto
 ---------- | --------------------- | -------------------: | :--------: | --------------------
