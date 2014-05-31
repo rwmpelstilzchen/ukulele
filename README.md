@@ -10,7 +10,7 @@ dosiero    | latina alfabete       | hebrea alfabete      | piktogramo | komposi
 ---------- | --------------------- | -------------------: | :--------: | --------------------
 `dugit`    | Dugit Nosa’at         | [דוגית נוסעת][5]     | ⛵          | Lev Ŝvarc / popola
 `jonatan`  | Jonatan ha Katan      | [יונתן הקטן][4]      | 🌳          | popola
-`ode`      | [An die Freude][3]    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8]
+`freude`   | [An die Freude][3]    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8]
 `rainbow`  | [Over the Rainbow][2] | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1]
 `rakevet`  | Hine Ba’a ha Rakevet  | [הנה באה הרכבת][9]   | 🚂          | nekonata
 `shkedija` | Ha Ŝkedija Poraĥat    | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b]
