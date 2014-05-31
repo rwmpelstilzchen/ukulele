@@ -41,4 +41,4 @@ dosiero    | latina alfabete        | hebrea alfabete      | piktogramo | kompos
 
 -----
 
-Bildo / image / תמונה: [A Yellow Ukulele](https://www.flickr.com/photos/jemshed/6423813619/) / [Jem Yoshioka](https://www.flickr.com/photos/jemshed/).
+Bildo / image / תמונה: [A Yellow Ukulele](https://www.flickr.com/photos/jemshed/6423813619/) / [Jem Yoshioka](https://www.flickr.com/photos/jemshed/) [(CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/deed.eo).
