@@ -1,6 +1,6 @@
 ## Ukulelo por komencantoj<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
 
-<img src="rozkolora_ukulelo.jpg" style="width: 10%; max-width: 495px" />
+<img src="rozkolora_ukulelo.jpg" style="width: 10%; max-width: 495px; float: left" />
 Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
 Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo), [MIDI](https://eo.wikipedia.org/wiki/MIDI) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto).
 
