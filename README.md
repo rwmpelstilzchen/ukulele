@@ -1,4 +1,4 @@
-## Ukulelo por komencantoj<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
+## <img src="rozkolora_ukulelo.jpg" style="width: 33%; max-width: 495px" /> Ukulelo por komencantoj<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
 
 Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
 Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo), [MIDI](https://eo.wikipedia.org/wiki/MIDI) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto).
@@ -36,3 +36,9 @@ dosiero    | latina alfabete        | hebrea alfabete      | piktogramo | kompos
 [c]: http://www.zemereshet.co.il/song.asp?id=1
 [ĉ]: http://www.zemereshet.co.il/song.asp?id=1770
 [d]: https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%99%D7%A0%D7%90_%D7%A7%D7%A8%D7%A6%27%D7%91%D7%A1%D7%A7%D7%99
+
+
+
+-----
+
+Bildo / image / תמונה: [A Yellow Ukulele](https://www.flickr.com/photos/jemshed/6423813619/) / [Jem Yoshioka](https://www.flickr.com/photos/jemshed/).
