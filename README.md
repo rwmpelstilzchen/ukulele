@@ -1,6 +1,9 @@
 ## Ukulelo por komencantoj<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
 
-<img src="rozkolora_ukulelo.jpg" style="width: 10%; max-width: 495px; float: left" />
+<table>
+<tr>
+<td><img src="rozkolora_ukulelo.jpg" /></td>
+<td>
 Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
 Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo), [MIDI](https://eo.wikipedia.org/wiki/MIDI) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto).
 
@@ -9,7 +12,9 @@ File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format), [MI
 
 נעימות פשוטות ל[אוקוללה](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%9C%D7%99), ב[טבלטורה](https://he.wikipedia.org/wiki/%D7%98%D7%91%D7%9C%D7%98%D7%95%D7%A8%D7%94_%D7%9C%D7%9B%D7%9C%D7%99%D7%9D_%D7%A9%D7%95%D7%A0%D7%99%D7%9D). מתאימות למתחילים.  
 פורמטים: [PDF](https://he.wikipedia.org/wiki/Portable_Document_Format), [MIDI](https://he.wikipedia.org/wiki/MIDI) ו־[TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (מקור).
-
+</td>
+</tr>
+</table>
 
 
 dosiero    | latina alfabete        | hebrea alfabete      | piktogramo | komposisto
