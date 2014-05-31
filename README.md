@@ -1,4 +1,4 @@
-# Ukulele por komencantoj — אוּקַלֵּיקַלּוּת — Ukulele for beginners
+# Ukulele por komencantoj<br />אוּקַלֵּיקַלּוּת<br />Ukulele for beginners
 
 Facilaj muzikaĵoj por la ukulelo, konvenaj por komencantoj.
 
@@ -6,14 +6,14 @@ Facilaj muzikaĵoj por la ukulelo, konvenaj por komencantoj.
 
 Simple ukulele pieces in tablature, suitable for absolute beginners.
 
-dosiero  | latina                | hebrealingva         | piktogramo | komposisto           | komento
--------  | ----------------      | ------------         | ---------- | -------------------- | -------
-dugit    | Dugit Nosa’at         | [דוגית נוסעת][5]     | ⛵          | Lev Ŝvarc / popola   | 
-jonatan  | Jonatan ha Katan      | [יונתן הקטן][4]      | 🌳          | popola               |
-ode      | [An die Freude][3]    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8]       |
-rainbow  | [Over the Rainbow][2] | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1]    |
-rakevet  | Hine Ba’a ha Rakevet  | [הנה באה הרכבת][9]   | 🚂          | nekonata             |
-shkedija | Ha Ŝkedija Poraĥat    | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b]   |
+dosiero    | latina alfabete       | hebrea alfabete      | piktogramo | komposisto           | komento
+---------- | --------------------- | -------------------- | ---------- | -------------------- | -------
+`dugit`    | Dugit Nosa’at         | [דוגית נוסעת][5]     | ⛵          | Lev Ŝvarc / popola   | 
+`jonatan`  | Jonatan ha Katan      | [יונתן הקטן][4]      | 🌳          | popola               |
+`ode`      | [An die Freude][3]    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8]       |
+`rainbow`  | [Over the Rainbow][2] | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1]    |
+`rakevet`  | Hine Ba’a ha Rakevet  | [הנה באה הרכבת][9]   | 🚂          | nekonata             |
+`shkedija` | Ha Ŝkedija Poraĥat    | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b]   |
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
 [2]: https://en.wikipedia.org/wiki/Over_the_Rainbow
