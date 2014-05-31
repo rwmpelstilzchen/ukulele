@@ -1,4 +1,10 @@
-# Ukulele por komencantoj<br />אוּקַלֵּיקַלּוּת<br />Ukulele for beginners
+<table width="100%">
+<tr>
+<td align="left"><b>Ukulele por komencantoj</b></td>
+<td align="center"><b>אוּקַלֵּיקַלּוּת</b></td>
+<td align="right"><b>Ukulele for beginners</b></td>
+</tr>
+<table>
 
 Facilaj muzikaĵoj por la ukulelo, konvenaj por komencantoj.
 
