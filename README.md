@@ -1,8 +1,8 @@
 <table width="100%" border="0">
 <tr border="0">
-<td border="0" width="33%" align="left"><b>Ukulele por komencantoj</b></td>
-<td border="0" width="33%" align="center"><b>אוּקַלֵּיקַלּוּת</b></td>
-<td border="0" width="33%" align="right"><b>Ukulele for beginners</b></td>
+<td border="0" width="33%" align="left"><h2>Ukulele por komencantoj</h2></td>
+<td border="0" width="33%" align="center"><h2>אוּקַלֵּיקַלּוּת</h2></td>
+<td border="0" width="33%" align="right"><h2>Ukulele for beginners</h2></td>
 </tr>
 <table>
 
