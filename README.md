@@ -19,6 +19,7 @@ dosiero    | latina alfabete        | hebrea alfabete      | piktogramo | kompos
 `freude`   | [An die Freude][3]     | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8]
 `rainbow`  | [Over the Rainbow][2]  | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1]
 `rakevet`  | *Hine Ba’a ha Rakevet* | [הנה באה הרכבת][9]   | 🚂          | nekonata
+`sade`     | *La Sade Jaco Jacati*  | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
 `shkedija` | *Ha Ŝkedija Poraĥat*   | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b]
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
@@ -33,4 +34,5 @@ dosiero    | latina alfabete        | hebrea alfabete      | piktogramo | kompos
 [a]: http://www.zemereshet.co.il/song.asp?id=244
 [b]: https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%A9%D7%94_%D7%A8%D7%91%D7%99%D7%A0%D7%90
 [c]: http://www.zemereshet.co.il/song.asp?id=1
+[ĉ]: http://www.zemereshet.co.il/song.asp?id=1770
 [d]: https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%99%D7%A0%D7%90_%D7%A7%D7%A8%D7%A6%27%D7%91%D7%A1%D7%A7%D7%99
