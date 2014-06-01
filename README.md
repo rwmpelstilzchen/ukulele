@@ -3,7 +3,7 @@
 Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
 Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo), [MIDI](https://eo.wikipedia.org/wiki/MIDI) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto).
 
-Simple [ukulele](https://en.wikipedia.org/wiki/Ukulele) pieces in [tablature](https://en.wikipedia.org/wiki/Tablature), suitable for absolute beginners.  
+Easy [ukulele](https://en.wikipedia.org/wiki/Ukulele) pieces in [tablature](https://en.wikipedia.org/wiki/Tablature), suitable for absolute beginners.  
 File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format), [MIDI](https://en.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) and [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (source).
 
 נעימות פשוטות ל[אוקוללה](https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%9C%D7%99), ב[טבלטורה](https://he.wikipedia.org/wiki/%D7%98%D7%91%D7%9C%D7%98%D7%95%D7%A8%D7%94_%D7%9C%D7%9B%D7%9C%D7%99%D7%9D_%D7%A9%D7%95%D7%A0%D7%99%D7%9D). מתאימות למתחילים.  
@@ -11,17 +11,20 @@ File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format), [MI
 
 
 
-dosiero    | latina alfabete            | hebrea alfabete      | piktogramo | komposisto
----------- | ----------------------     | -------------------: | :--------: | --------------------
-`agada`    | *Agada*                    | [אגדה][c]            | 🌴          | [Ĥanina Karĉevski][d] (he)
-`dugit`    | *Dugit Nosa’at*            | [דוגית נוסעת][5]     | ⛵          | Lev Ŝvarc / popola
-`jakinton` | *Pizmon la Jakinton*       | [פזמון ליקינטון][e]  | 🌛          | [Rivka Gvili][f] (he)
-`jonatan`  | *Jonatan ha Katan*         | [יונתן הקטן][4]      | 🌳          | popola
-`freude`   | [An die Freude][3] (de)    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8] (de)
-`rainbow`  | [Over the Rainbow][2] (en) | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
-`rakevet`  | *Hine Ba’a ha Rakevet*     | [הנה באה הרכבת][9]   | 🚂          | nekonata
-`sade`     | *La Sade Jaco Jacati*      | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
-`shkedija` | *Ha Ŝkedija Poraĥat*       | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b] (he)
+dosiero     | latina alfabete            | hebrea alfabete      | piktogramo | komposisto
+----------  | ----------------------     | -------------------: | :--------: | --------------------
+`agada`     | *Agada*                    | [אגדה][c]            | 🌴          | [Ĥanina Karĉevski][d] (he)
+`do`        | [Do-Re-Mi][ĥ] (en)         | [דו־רה־מי][i]        | ♫          | [Richard Rodgers][j] (en)
+`dugit`     | *Dugit Nosa’at*            | [דוגית נוסעת][5]     | ⛵          | [Lev Ŝvarc][h] (he) / popola
+`ima`       | *Ima Jekara Li*            | [אמא יקרה לי][ĵ]     | 👭          | [Naĥum Nardi][k] (he)
+`jakinton`  | *Pizmon la Jakinton*       | [פזמון ליקינטון][e]  | 🌛          | [Rivka Gvili][f] (he)
+`jomuledet` | *Hajom Jomuledet*          | [היום יום־הולדת][g]  | 🎈          | [Varda Gilboa][ĝ] (he)
+`jonatan`   | *Jonatan ha Katan*         | [יונתן הקטן][4]      | 🌳          | popola
+`freude`    | [An die Freude][3] (de)    | [אוֹדָה לשמחה][6]      | ☺          | [Beethoven][8] (de)
+`rainbow`   | [Over the Rainbow][2] (en) | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
+`rakevet`   | *Hine Ba’a ha Rakevet*     | [הנה באה הרכבת][9]   | 🚂          | nekonata
+`sade`      | *La Sade Jaco Jacati*      | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
+`shkedija`  | *Ha Ŝkedija Poraĥat*       | [השקדיה פורחת][a]    | ❀          | [Menaŝe Ravina][b] (he)
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
 [2]: https://en.wikipedia.org/wiki/Over_the_Rainbow
@@ -38,9 +41,15 @@ dosiero    | latina alfabete            | hebrea alfabete      | piktogramo | ko
 [ĉ]: http://www.zemereshet.co.il/song.asp?id=1770
 [d]: https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%99%D7%A0%D7%90_%D7%A7%D7%A8%D7%A6%27%D7%91%D7%A1%D7%A7%D7%99
 [e]: https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%A7%D7%94_%D7%92%D7%95%D7%99%D7%9C%D7%99
-[f]: http://www.zemereshet.co.il/song.asp?id=555&phrase=%F4%E6%EE%E5%EF
-
-
+[f]: http://www.zemereshet.co.il/song.asp?id=555
+[g]: http://www.zemereshet.co.il/song.asp?id=4501
+[ĝ]: http://www.zemereshet.co.il/artist.asp?id=2780
+[h]: http://www.zemereshet.co.il/artist.asp?id=1086
+[ĥ]: https://en.wikipedia.org/wiki/Do-Re-Mi
+[i]: https://he.wikipedia.org/wiki/%D7%93%D7%95-%D7%A8%D7%94-%D7%9E%D7%99_(%D7%A9%D7%99%D7%A8)
+[j]: https://en.wikipedia.org/wiki/Richard_Rodgers
+[ĵ]: http://www.zemereshet.co.il/song.asp?id=920
+[k]: https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%95%D7%9D_%D7%A0%D7%A8%D7%93%D7%99
 
 -----
 
