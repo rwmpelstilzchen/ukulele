@@ -14,7 +14,7 @@ File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format) (for
 dosiero          | latina/origina alfabete            | hebrea alfabete      | piktogramo | komposisto
 ----------       | ----------------------             | -------------------: | :--------: | --------------------
 `agada`          | *Agada*                            | [אגדה][c]            | 🌴          | [Ĥanina Karĉevski][d] (he)
-`bamaagal`       | *Ani Omedet ba Maʾagal             | [אני עומדת במעגל][C] | ○          | popola
+`bamaagal`       | *Ani Omedet ba Maʾagal*             | [אני עומדת במעגל][C] | ○          | popola
 `*bourrée`       | [Bourrée in E minor][t] (en)       | בורי במי מינור       | 💃          | [Johann Sebastian Bach][A] (de)
 `do`             | [Do-Re-Mi][ĥ] (en)                 | [דו־רה־מי][i]        | ♫          | [Richard Rodgers][j] (en)
 `*dovregubbens`  | [I Dovregubbens hall][ŝ] (no)      | בהיכלו של מלך־ההר    | 👑          | [Edvard Grieg][s] (no)
