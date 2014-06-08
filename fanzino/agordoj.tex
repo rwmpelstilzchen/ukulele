@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage[a5paper, landscape, margin=0cm]{geometry}
+
+\usepackage{graphicx, url, paralist}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand{\muzikajxo}[1]{\includegraphics[width=\linewidth]{muzikaĵoj/#1.eps}\newpage}
+\newcommand{\lmuzikajxo}[2]{\begin{center}\includegraphics[width=#2\linewidth]{muzikaĵoj/#1.eps}\end{center}\newpage}
+
+\usepackage{fontspec}
+\usepackage[RTLdocument]{bidi}
+\setmainfont[Script=Hebrew, AutoFakeSlant=-0.15, Mapping=tex-text]{Rutz_OE}
+\setmonofont[Mapping=tex-text, Scale=0.9]{PragmataPro}
+\renewcommand{\L}[1]{\LR{\fontspec{Vesper Pro}#1}}
+\newcommand{\symbolglyph}[1]{{\fontspec{Symbola}#1}}
