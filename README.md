@@ -27,7 +27,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `jonatan`        | *Jonatan ha Katan*                 | [יונתן הקטן][4]      | 🌳          | popola
 `*minuet`        | [Menueto en G-maĵoro][p] (en)      | מינואט בסול מז׳ור    | 💃          | [Christian Petzold][q] (de)
 `*morgenstemning`| [Morgenstemning i ørkenen][r] (no) | בוקר                 | 🌅          | [Edvard Grieg][s] (no)
-`*nos`           | [Ar Hyd y Nos][C] (cy)             | אר היד א נוס         | ✨          | popola
+`nos`            | [Ar Hyd y Nos][D] (cy)             | אר היד א נוס         | ✨          | popola
 `rainbow`        | [Over the Rainbow][2] (en)         | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
 `rakevet`        | *Hine Ba’a ha Rakevet*             | [הנה באה הרכבת][9]   | 🚂          | nekonata
 `sade`           | *La Sade Jaco Jacati*              | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
@@ -69,6 +69,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 [s]: https://no.wikipedia.org/wiki/Edvard_Grieg
 [ŝ]: https://no.wikipedia.org/wiki/I_Dovregubbens_hall
 [t]: https://en.wikipedia.org/wiki/Bourr%C3%A9e_in_E_minor
-[A]: https://de.wikipedia.org/wiki/Johann_Sebastian_Bach
-[B]: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89
-[C]: http://www.zemereshet.co.il/song.asp?id=976
+[!]: https://de.wikipedia.org/wiki/Johann_Sebastian_Bach
+[@]: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89
+[#]: http://www.zemereshet.co.il/song.asp?id=976
+[$]: https://cy.wikipedia.org/wiki/Ar_Hyd_y_Nos
