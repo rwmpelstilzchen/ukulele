@@ -1,8 +1,14 @@
 \documentclass{article}
 \usepackage[a5paper, landscape, margin=0cm]{geometry}
+\pagestyle{empty}
 
-\usepackage{graphicx, url, paralist}
+\setlength\parskip{\smallskipamount}
+\setlength\parindent{0pt}
+
+\usepackage{graphicx, url, paralist, wrapfig}
 \usepackage[hidelinks]{hyperref}
+
+\newcommand{\middlebox}[1]{$\vcenter{\hbox{#1}}$}
 
 \newcommand{\muzikajxo}[1]{\includegraphics[width=\linewidth]{muzikaĵoj/#1.eps}\newpage}
 \newcommand{\lmuzikajxo}[2]{\begin{center}\includegraphics[width=#2\linewidth]{muzikaĵoj/#1.eps}\end{center}\newpage}
@@ -12,4 +18,4 @@
 \setmainfont[Script=Hebrew, AutoFakeSlant=-0.15, Mapping=tex-text]{Rutz_OE}
 \setmonofont[Mapping=tex-text, Scale=0.9]{PragmataPro}
 \renewcommand{\L}[1]{\LR{\fontspec{Vesper Pro}#1}}
-\newcommand{\symbolglyph}[1]{{\fontspec{Symbola}#1}}
+\newcommand{\symbolglyph}[1]{\middlebox{\,\fontspec{Symbola}#1\,}}
