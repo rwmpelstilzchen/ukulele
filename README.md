@@ -17,7 +17,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `bamaagal`       | *Ani Omedet ba Maʾagal*            | [אני עומדת במעגל][C] | ○          | popola
 `*bourrée`       | [Bourrée in E minor][t] (en)       | בורי במי מינור       | 💃          | [Johann Sebastian Bach][A] (de)
 `do`             | [Do-Re-Mi][ĥ] (en)                 | [דו־רה־מי][i]        | ♫          | [Richard Rodgers][j] (en)
-`*dovregubbens`  | [I Dovregubbens hall][ŝ] (no)      | בהיכלו של מלך־ההר    | 👑          | [Edvard Grieg][s] (no)
+`dovregubbens`   | [I Dovregubbens hall][ŝ] (no)      | בהיכלו של מלך־ההר    | 👑          | [Edvard Grieg][s] (no)
 `dugit`          | *Dugit Nosa’at*                    | [דוגית נוסעת][5]     | ⛵          | [Lev Ŝvarc][h] (he) / popola
 `*erev`          | *Erev mul ha Gil’ad*               | [ערב מול הגלעד][l]   | 🐑          | [Miki Gavrielov][m] (he)
 `freude`         | [An die Freude][3] (de)            | [אוֹדָה לשמחה][6]      | ☺          | [Ludwig van Beethoven][8] (de)
@@ -25,7 +25,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `jakinton`       | *Pizmon la Jakinton*               | [פזמון ליקינטון][e]  | 🌛          | [Rivka Gvili][f] (he)
 `jomuledet`      | *Hajom Jomuledet*                  | [היום יום־הולדת][g]  | 🎈          | [Varda Gilboa][ĝ] (he)
 `jonatan`        | *Jonatan ha Katan*                 | [יונתן הקטן][4]      | 🌳          | popola
-`*minuet`        | [Menueto en G-maĵoro][p] (en)      | מינואט בסול מז׳ור    | 💃          | [Christian Petzold][q] (de)
+`minuet`         | [Menueto en G-maĵoro][p] (en)      | מינואט בסול מז׳ור    | 💃          | [Christian Petzold][q] (de)
 `*morgenstemning`| [Morgenstemning i ørkenen][r] (no) | בוקר                 | 🌅          | [Edvard Grieg][s] (no)
 `nos`            | [Ar Hyd y Nos][D] (cy)             | אר היד א נוס         | ✨          | popola
 `rainbow`        | [Over the Rainbow][2] (en)         | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
