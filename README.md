@@ -32,7 +32,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `rakevet`        | *Hine Ba’a ha Rakevet*             | [הנה באה הרכבת][9]   | 🚂          | nekonata
 `sade`           | *La Sade Jaco Jacati*              | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
 `sakura`         | [さくらさくら][B] (ja)             | סקורה סקורה          | 🌸          | popola
-`*scarborough`   | [Scarborough Fair][n] (en)         | [יריד סקרבורו][o]    | 🌿          | popola
+`scarborough`    | [Scarborough Fair][n] (en)         | [יריד סקרבורו][o]    | 🌿          | popola
 `ŝkedija`        | *Ha Ŝkedija Poraĥat*               | [השקדיה פורחת][a]    | 🌸          | [Menaŝe Ravina][b] (he)
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
