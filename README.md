@@ -14,7 +14,7 @@ File formats: [PDF](https://en.wikipedia.org/wiki/Portable_Document_Format) (for
 dosiero          | latina/origina alfabete            | hebrea alfabete      | piktogramo | komposisto
 ----------       | ----------------------             | -------------------: | :--------: | --------------------
 `agada`          | *Agada*                            | [אגדה][c]            | 🌴          | [Ĥanina Karĉevski][d] (he)
-`bamaagal`       | *Ani Omedet ba Maʾagal*             | [אני עומדת במעגל][C] | ○          | popola
+`bamaagal`       | *Ani Omedet ba Maʾagal*            | [אני עומדת במעגל][C] | ○          | popola
 `*bourrée`       | [Bourrée in E minor][t] (en)       | בורי במי מינור       | 💃          | [Johann Sebastian Bach][A] (de)
 `do`             | [Do-Re-Mi][ĥ] (en)                 | [דו־רה־מי][i]        | ♫          | [Richard Rodgers][j] (en)
 `*dovregubbens`  | [I Dovregubbens hall][ŝ] (no)      | בהיכלו של מלך־ההר    | 👑          | [Edvard Grieg][s] (no)
@@ -27,7 +27,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `jonatan`        | *Jonatan ha Katan*                 | [יונתן הקטן][4]      | 🌳          | popola
 `*minuet`        | [Menueto en G-maĵoro][p] (en)      | מינואט בסול מז׳ור    | 💃          | [Christian Petzold][q] (de)
 `*morgenstemning`| [Morgenstemning i ørkenen][r] (no) | בוקר                 | 🌅          | [Edvard Grieg][s] (no)
-`*nos`           | [Ar Hyd y Nos][C] (cy)             | אר הד א נוס          | ✨          | popola
+`*nos`           | [Ar Hyd y Nos][C] (cy)             | אר היד א נוס         | ✨          | popola
 `rainbow`        | [Over the Rainbow][2] (en)         | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
 `rakevet`        | *Hine Ba’a ha Rakevet*             | [הנה באה הרכבת][9]   | 🚂          | nekonata
 `sade`           | *La Sade Jaco Jacati*              | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
