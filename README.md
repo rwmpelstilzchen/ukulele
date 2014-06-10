@@ -31,7 +31,7 @@ dosiero          | latina/origina alfabete            | hebrea alfabete      | p
 `rainbow`        | [Over the Rainbow][2] (en)         | [אי־שם מעבר לקשת][7] | 🌈          | [Harold Arlen][1] (en)
 `rakevet`        | *Hine Ba’a ha Rakevet*             | [הנה באה הרכבת][9]   | 🚂          | nekonata
 `sade`           | *La Sade Jaco Jacati*              | [לשדה יצוא יצאתי][ĉ] | 🐎          | popola
-`*sakura`        | [さくらさくら][B] (ja)             | סקורה סקורה          | 🌸          | popola
+`sakura`         | [さくらさくら][B] (ja)             | סקורה סקורה          | 🌸          | popola
 `*scarborough`   | [Scarborough Fair][n] (en)         | [יריד סקרבורו][o]    | 🌿          | popola
 `ŝkedija`        | *Ha Ŝkedija Poraĥat*               | [השקדיה פורחת][a]    | 🌸          | [Menaŝe Ravina][b] (he)
 
