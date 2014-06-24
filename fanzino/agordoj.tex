@@ -1,6 +1,5 @@
-\documentclass{article}
+\documentclass{book}
 \usepackage[a5paper, landscape, margin=0cm]{geometry}
-\pagestyle{empty}
 
 \setlength\parskip{\smallskipamount}
 \setlength\parindent{0pt}
@@ -10,8 +9,18 @@
 
 \newcommand{\middlebox}[1]{$\vcenter{\hbox{#1}}$}
 
-\newcommand{\muzikajxo}[1]{\includegraphics[width=\linewidth]{muzikaĵoj/#1.eps}\newpage}
-\newcommand{\lmuzikajxo}[2]{\begin{center}\includegraphics[width=#2\linewidth]{muzikaĵoj/#1.eps}\end{center}\newpage}
+\newcommand{\muzikajxo}[5]{\begin{center}{\large\middlebox{\symbolglyph{#3}} {\RL{\textbf{#1}}}} {/} {#4}\label{muz:#2}
+
+\vfill
+
+\includegraphics[width=#5\linewidth]{muzikaĵoj/#2.eps}\end{center}
+
+\vfill\newpage}
+\newcommand{\pagxo}[1]{\begin{center}\includegraphics[width=\linewidth]{muzikaĵoj/#1.eps}\end{center}\newpage}
+
+\usepackage{multicol}
+\setlength{\columnsep}{4em}
+\newcommand{\enhavero}[4]{\parbox{1em}{\symbolglyph{#3}} \textbf{#1} / #4\dotfill\pageref{muz:#2}\\}
 
 \usepackage{fontspec}
 \usepackage[RTLdocument]{bidi}

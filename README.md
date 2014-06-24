@@ -16,11 +16,15 @@ dosiero          | latina/origina alfabete              | hebrea alfabete       
 `agada`          | *Agada*                              | [אגדה][c]                    | 🌴          | [Ĥanina Karĉevski][d] (he)
 `bamaagal`       | *Ani Omedet ba Maʾagal*              | [אני עומדת במעגל][#]         | ○          | popola
 `birthday`       | [Happy Birthday to You][*] (en)      | [יום הולדת שמח][א]           | 🎈          | 
-`bourrée`        | [Bourrée in E minor][t] (en)         | בורי במי מינור               | 💃          | [Johann Sebastian Bach][!] (de)
-`do`             | [Do-Re-Mi][ĥ] (en)                   | [דו־רה־מי][i]                | ♫          | [Richard Rodgers][j] (en)
+`bourrée`        | [Bourrée in E minor][t] (en)         | בורה במי מינור               | 💃          | [Johann Sebastian Bach][!] (de)
+`bubble`         | [バブルボブル][ן]                    | [באבל בובל][ס]               | 🐉          | *Tadasi Kimizima*
+`chipchip`       | [Ententanz][ק] (de)                  | [ריקוד הציפורים][ר]          | 🐦          | [Werner Thomas][ש] (de)
+`cucaracha`      | [La cucaracha][מ]                    | לה קוקרצ׳ה                   | 🐞          | popola
+`do`             | [Do-Re-Mi][ĥ] (en)                   | [דו־רה־מי][i]                | 🐻          | [Richard Rodgers][j] (en)
 `dovregubbens`   | [I Dovregubbens hall][ŝ] (no)        | בהיכלו של מלך־ההר            | 👑          | [Edvard Grieg][s] (no)
 `dugit`          | *Dugit Nosaʾat*                      | [דוגית נוסעת][5]             | ⛵          | [Lev Ŝvarc][h] (he) / popola
-`*erev`          | *Erev mul ha Gilʾad*                 | [ערב מול הגלעד][l]           | 🐑          | [Miki Gavrielov][m] (he)
+`elise`          | [Für Elise][ך]                       | [לאליזה][ל]                  | 𝆏          | [Ludwig van Beethoven][8] (de)
+`erev`          | *Erev mul ha Gilʾad*                 | [ערב מול הגלעד][l]           | 🐑          | [Miki Gavrielov][m] (he)
 `freude`         | [An die Freude][3] (de)              | [אוֹדָה לשמחה][6]              | ☺          | [Ludwig van Beethoven][8] (de)
 `greensleeves`   | [Greensleeves][%] (en)               | [שרוולים ירוקים][^]          | 👕          | popola
 `ima`            | *Ima Jekara Li*                      | [אמא יקרה לי][ĵ]             | ♥          | [Naĥum Nardi][k] (he)
@@ -30,19 +34,23 @@ dosiero          | latina/origina alfabete              | hebrea alfabete       
 `kalinka`        | [Калинка][ה] (ru)                    | [קלינקה][ו]                  | ❄          | [Ivan Larionov][ז] (ru)
 `kova`           | *La Kova Ŝeli*                       | [לכובע שלי][ח]               | △          | popola
 `maman`          | [Ah ! vous dirais-je, maman][&] (fr) | שאגיד לך, אמא?               | 🔤          | popola
+`midnight`       | Mr Dowland’s Midnight                | חצות־הלילה של מר דוולנד      | 🕛          | [John Dowland][כ] (en)
 `minuet`         | [Menueto en G-maĵoro][p] (en)        | מינואט בסול מז׳ור            | 💃          | [Christian Petzold][q] (de)
 `morgenstemning` | [Morgenstemning i ørkenen][r] (no)   | בוקר                         | 🌅          | [Edvard Grieg][s] (no)
 `nos`            | [Ar Hyd y Nos][$] (cy)               | אר היד א נוס                 | ✨          | popola
+`ore`            | [Danza delle ore][ף] (it)            | [מחול השעות][צ]              | ⌚          | [Amilcare Ponchielli][ץ] (it)
 `rainbow`        | [Over the Rainbow][2] (en)           | [אי־שם מעבר לקשת][7]         | 🌈          | [Harold Arlen][1] (en)
 `rakefet`        | *Ha Rakefet*                         | [הרקפת][ב]                   | ⚘          | popola
 `rakevet`        | *Hine Baʾa ha Rakevet*               | [הנה באה הרכבת][9]           | 🚂          | nekonata
 `sade`           | *La Sade Jaco Jacati*                | [לשדה יצוא יצאתי][ĉ]         | 🐎          | popola
 `sakura`         | [さくらさくら][@] (ja)               | סקורה סקורה                  | 🌸          | popola
 `scarborough`    | [Scarborough Fair][n] (en)           | [יריד סקרבורו][o]            | 🌿          | popola
+`smb`            | [スーパーマリオブラザーズ][ם] (ja)   | [האחים סופר מריו][נ]         | 🍄          | [近藤浩治][ע] (ja)
 `ŝkedija`        | *Ha Ŝkedija Poraĥat*                 | [השקדיה פורחת][a]            | 🌸          | [Menaŝe Ravina][b] (he)
 `taxtaxtax`      | *Jomuledet*                          | [יום־הולדת][ט]               | 🎈          | popola
 `volga`          | [Эй, ухнем!][י]                      | שיר סיראי הוולגה             | ⛵          | popola
-`*zebra`         | *Lama Loveŝet ha Zebra Piĝama?       | [למה לובשת הזברה פיז׳מה?][ג] | 📅          | [Dubi Zelcer][ד] (he)
+`washerwoman`    | [The Irish Washerwoman][פ]           | הכובסת האירית                | 💧          | popola
+`zebra`         | *Lama Loveŝet ha Zebra Piĝama?       | [למה לובשת הזברה פיז׳מה?][ג] | 📅          | [Dubi Zelcer][ד] (he)
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
 [2]: https://en.wikipedia.org/wiki/Over_the_Rainbow
@@ -96,3 +104,19 @@ dosiero          | latina/origina alfabete              | hebrea alfabete       
 [ח]: http://www.zemereshet.co.il/song.asp?id=1934
 [ט]: http://www.zemereshet.co.il/song.asp?id=995
 [י]: https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%B8%D0%BD%D1%83%D1%88%D0%BA%D0%B0
+[כ]: https://en.wikipedia.org/wiki/John_Dowland
+[ך]: https://de.wikipedia.org/wiki/F%C3%BCr_Elise
+[ל]: https://he.wikipedia.org/wiki/%D7%9C%D7%90%D7%9C%D7%99%D7%96%D7%94
+[מ]: https://es.wikipedia.org/wiki/La_cucaracha
+[ם]: https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA
+[נ]: https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%97%D7%99%D7%9D_%D7%A1%D7%95%D7%A4%D7%A8_%D7%9E%D7%A8%D7%99%D7%95
+[ן]: https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%96%E3%83%AB%E3%83%9C%E3%83%96%E3%83%AB
+[ס]: https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%91%D7%9C_%D7%91%D7%95%D7%91%D7%9C
+[ע]: https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E6%B5%A9%E6%B2%BB
+[פ]: https://en.wikipedia.org/wiki/Irish_Washerwoman
+[ף]: https://it.wikipedia.org/wiki/Danza_delle_ore
+[צ]: https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%95%D7%9C_%D7%94%D7%A9%D7%A2%D7%95%D7%AA
+[ץ]: https://it.wikipedia.org/wiki/Amilcare_Ponchielli
+[ק]: https://de.wikipedia.org/wiki/Ententanz
+[ר]: https://he.wikipedia.org/wiki/%D7%A8%D7%99%D7%A7%D7%95%D7%93_%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D
+[ש]: https://de.wikipedia.org/wiki/Werner_Thomas_(Komponist)
