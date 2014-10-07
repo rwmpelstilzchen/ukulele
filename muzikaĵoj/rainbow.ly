@@ -1,5 +1,4 @@
 muziko = {
-  \tempo 4=120
   \key d \major
   \time 4/4
   \repeat volta 2 {

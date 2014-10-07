@@ -1,5 +1,7 @@
 all:
-	latexmk -xelatex -file-line-error fanzino
+	-rm -fr out/
+	lilypond-book --pdf --output=out fanzino.tex
+	cd out/ && latexmk -xelatex -file-line-error fanzino; cd ..
 
 pvc:
 	latexmk -silent -pvc -file-line-error fanzino

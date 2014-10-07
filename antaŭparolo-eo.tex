@@ -17,14 +17,14 @@ Tiu ĉi libreto enhavas melodiojn por kordinstrumenteto nomiĝanta «Ukulelo» (
 
 \begin{wrapfigure}[5]{r}{3.5cm}\vspace{-2\baselineskip}
 	\begin{lilypond}
-		theChords = \chordmode {g4 c e a}
-		music = {g'4\4 c' e' a'}
+		akordoj = \chordmode {g4 c e a}
+		muziko = {g'4\4 c' e' a'}
 		<<
-		\new ChordNames { \theChords }
-		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
-		\music
+		\new ChordNames {\akordoj }
+		\new Staff \with {\omit StringNumber \hide Staff.TimeSignature}
+		\muziko
 		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
-		\music
+		\muziko
 		>>
 	\end{lilypond}
 \end{wrapfigure}
@@ -48,12 +48,12 @@ Oni legas tabulaturon de maldekstre, kiel la kutiman muzikan notacion. ***: «0�
 	\centering
 	\includegraphics[width=3cm]{../plano-C3.eps}\\
 	\begin{lilypond}
-		music = {dis' \bar "|"}
+		muziko = {dis' \bar "|"}
 		<<
-		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
-		\music
+		\new Staff \with {\omit StringNumber \hide Staff.TimeSignature}
+		\muziko
 		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
-		\music
+		\muziko
 		>>
 	\end{lilypond}
 \end{minipage}\hfill
@@ -61,12 +61,12 @@ Oni legas tabulaturon de maldekstre, kiel la kutiman muzikan notacion. ***: «0�
 	\centering
 	\includegraphics[width=3cm]{../plano-G1.eps}\\
 	\begin{lilypond}
-		music = {gis'\4 \bar "|"}
+		muziko = {gis'\4 \bar "|"}
 		<<
-		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
-		\music
+		\new Staff \with {\omit StringNumber \hide Staff.TimeSignature}
+		\muziko
 		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
-		\music
+		\muziko
 		>>
 	\end{lilypond}
 \end{minipage}\hfill
@@ -74,12 +74,12 @@ Oni legas tabulaturon de maldekstre, kiel la kutiman muzikan notacion. ***: «0�
 	\centering
 	\includegraphics[width=3cm]{../plano-A2.eps}\\
 	\begin{lilypond}
-		music = {b' \bar "|"}
+		muziko = {b' \bar "|"}
 		<<
-		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
-		\music
+		\new Staff \with {\omit StringNumber \hide Staff.TimeSignature}
+		\muziko
 		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
-		\music
+		\muziko
 		>>
 	\end{lilypond}
 \end{minipage}
@@ -91,7 +91,7 @@ La daŭroj de la tonoj estas indikitaj tie ĉi nur sur la tonalta notacio, norma
 
 \begin{center}
 	\begin{lilypond}
-		music = {
+		muziko = {
 			\time 4/4
 			\transpose c c' {
 				<g\4>4 <e\2>4 <e\2>2
@@ -101,10 +101,10 @@ La daŭroj de la tonoj estas indikitaj tie ĉi nur sur la tonalta notacio, norma
 			}
 		}
 		<<
-		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
-		\music
+		\new Staff \with {\omit StringNumber}
+		\muziko
 		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
-		\music
+		\muziko
 		>>
 	\end{lilypond}
 \end{center}

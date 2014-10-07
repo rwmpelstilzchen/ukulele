@@ -1,5 +1,5 @@
-\documentclass{book}
-\usepackage[a5paper, landscape, margin=0cm]{geometry}
+\documentclass[12pt]{book}
+\usepackage[a4paper]{geometry}
 
 \setlength\parskip{\smallskipamount}
 \setlength\parindent{0pt}
@@ -8,6 +8,9 @@
 \usepackage[hidelinks]{hyperref}
 
 \newcommand{\middlebox}[1]{$\vcenter{\hbox{#1}}$}
+
+%\newcommand{\betweenLilyPondSystem}[1]{\\[10mm]\noindent}
+\newcommand{\betweenLilyPondSystem}[1]{\vspace{5mm}\linebreak} 
 
 \newcommand{\muzikajxo}[6]{%
 	{\large\textbf{#1}} / #5 \hfill

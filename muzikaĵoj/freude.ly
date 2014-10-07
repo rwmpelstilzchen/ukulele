@@ -1,5 +1,4 @@
 muziko = {
-  \tempo 4=120
   \key c \major
   \time 4/4
   <e\2>4 <e\2>4 <f\2>4 <g\4>4
