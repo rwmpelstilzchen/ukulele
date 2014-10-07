@@ -9,14 +9,12 @@
 
 \newcommand{\middlebox}[1]{$\vcenter{\hbox{#1}}$}
 
-\newcommand{\muzikajxo}[5]{\begin{center}{\large\middlebox{\symbolglyph{#3}} {\RL{\textbf{#1}}}} {/} {#4}\label{muz:#2}
-
-\vfill
-
-\includegraphics[width=#5\linewidth]{muzikaĵoj/#2.eps}\end{center}
-
-\vfill\newpage}
-\newcommand{\pagxo}[1]{\begin{center}\includegraphics[width=\linewidth]{muzikaĵoj/#1.eps}\end{center}\newpage}
+\newcommand{\muzikajxo}[6]{%
+	{\large\textbf{#1}} / #5 \hfill
+	{\label{muz:#3}\large\middlebox{\symbolglyph{#4}}}\hfill
+	\EO{{\large\textbf{#2}} / #6}
+}
+\newcommand{\lily}[1]{\begin{center}#1\end{center}}
 
 \usepackage{multicol}
 \setlength{\columnsep}{4em}
@@ -27,5 +25,7 @@
 \setmainfont[Script=Hebrew, AutoFakeSlant=-0.15, Mapping=tex-text]{Rutz_OE}
 \setmonofont[Mapping=tex-text, Scale=0.9]{PragmataPro}
 \renewcommand{\L}[1]{\LR{\fontspec{Vesper Pro}#1}}
+\newcommand{\EO}[1]{\L{#1}}
 \newcommand{\setEO}{\setLR\fontspec{Vesper Pro}}
+\newcommand{\setHE}{\setRL\normalfont}
 \newcommand{\symbolglyph}[1]{\middlebox{\,\fontspec{Symbola}#1\,}}

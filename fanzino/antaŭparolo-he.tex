@@ -14,10 +14,22 @@
 
 \subsection*{כיוון}
 
-\begin{wrapfigure}[5]{l}{3.5cm}\vspace{-\baselineskip}\includegraphics[width=3cm]{agordo.eps}\end{wrapfigure}
-לאוקוללה ארבעה מיתרים. הם מכוונים באופן קצת מוזר: לא לפי גובה הצליל כמו ברוב כלי המיתר, אלא בסדר אחר~— המיתר הראשון\footnote{הגבוה ביותר כשאתם מחזיקים את האוקוללה בנגינה; הנמוך ביותר בטבלטורה.} מכוון בכיוון הרגיל לסול (\L{G}), הבא בתור לדו (\L{C}) באותה האוקטבה, ולאחריהם מי (\L{E}) ולה (\L{A}). ככה:
+\begin{wrapfigure}[5]{l}{3.5cm}\vspace{-2\baselineskip}
+	\begin{lilypond}
+		theChords = \chordmode {g4 c e a}
+		music = {g'4\4 c' e' a'}
+		<<
+		\new ChordNames { \theChords }
+		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
+		\music
+		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
+		\music
+		>>
+	\end{lilypond}
+\end{wrapfigure}
+לאוקוללה ארבעה מיתרים. הם מכוונים באופן קצת מוזר: לא לפי גובה הצליל כמו ברוב כלי המיתר, אלא בסדר אחר~— המיתר הראשון\footnote{הקרוב ביותר לראש שלכם כשאתם מחזיקים את האוקוללה בנגינה; הנמוך ביותר בטבלטורה.} מכוון בכיוון הרגיל לסול (\L{G}), הבא בתור לדו (\L{C}) באותה האוקטבה, ולאחריהם מי (\L{E}) ולה (\L{A}). ככה:
 
-הדרך הכי קלה לכוון את האוקוללה היא בעזרת מכשיר כיוון אלקטרוני שמצמידים בתופסן לקצה הכלי: הוא חש את הרעידות ומתרגם אותן לסימון של גובה הצליל. חשוב שתשיגו מכוון שלא מותאם לגיטרה בלבד אלא כזה שהוא כללי.
+הדרך הכי קלה לכוון את האוקוללה היא בעזרת מכשיר כיוון אלקטרוני שמצמידים בתופסן לקצה הכלי: הוא חש את הרעידות ומתרגם אותן לסימון של גובה הצליל. חשוב שתשיגו מכוון שלא מותאם לגיטרה בלבד אלא כזה שהוא כללי (כרומטי).
 
 
 
@@ -30,18 +42,42 @@
 \vspace{\baselineskip}
 \begin{minipage}{4cm}
 	\centering
-	\includegraphics[width=3cm]{plano-C3.eps}\\
-	\includegraphics[height=2.5cm]{tab-C3.eps}
+	\includegraphics[width=3cm]{../plano-C3.eps}\\
+	\begin{lilypond}
+		music = {dis' \bar "|"}
+		<<
+		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
+		\music
+		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
+		\music
+		>>
+	\end{lilypond}
 \end{minipage}\hfill
 \begin{minipage}{4cm}
 	\centering
-	\includegraphics[width=3cm]{plano-G1.eps}\\
-	\includegraphics[height=2.5cm]{tab-G1.eps}
+	\includegraphics[width=3cm]{../plano-G1.eps}\\
+	\begin{lilypond}
+		music = {gis'\4 \bar "|"}
+		<<
+		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
+		\music
+		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
+		\music
+		>>
+	\end{lilypond}
 \end{minipage}\hfill
 \begin{minipage}{4cm}
 	\centering
-	\includegraphics[width=3cm]{plano-A2.eps}\\
-	\includegraphics[height=2.5cm]{tab-A2.eps}
+	\includegraphics[width=3cm]{../plano-A2.eps}\\
+	\begin{lilypond}
+		music = {b' \bar "|"}
+		<<
+		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
+		\music
+		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
+		\music
+		>>
+	\end{lilypond}
 \end{minipage}
 \vspace{\baselineskip}
 
@@ -50,7 +86,23 @@
 רוצים לוודא שהבנתם? הנה ההתחלה של „יונתן הקטן”. תנסו לראות אם זה אכן מה שיוצא לכם כשאתם מנגנים:
 
 \begin{center}
-	\includegraphics[height=2.5cm]{jon.eps}
+	\begin{lilypond}
+		music = {
+			\time 4/4
+			\transpose c c' {
+				<g\4>4 <e\2>4 <e\2>2
+				<f\2>4 <d\3>4 <d\3>2
+				<c\3>4 <d\3>4 <e\2>4 <f\2>4
+				<g\4>4 <g\4>4 <g\4>2
+			}
+		}
+		<<
+		\new Staff \with { \omit StringNumber \hide Staff.TimeSignature}
+		\music
+		\new TabStaff \with {stringTunings = \stringTuning <g' c' e' a'>}
+		\music
+		>>
+	\end{lilypond}
 \end{center}
 
 חזרות מסומנות ב־\symbolglyph{𝄆} ו־\symbolglyph{𝄇}. כשיש הבדל בין החזרה הראשונה והשניה משמש סימון \symbolglyph{⌜} ממוספר מעל התיבות השונות.
@@ -59,7 +111,7 @@
 
 \subsection*{מידע נוסף ויצירת קשר}
 
-\begin{wrapfigure}[4]{l}{1.75cm}\vspace{-\baselineskip}\includegraphics[width=1.5cm]{retejo.png}\end{wrapfigure}
+\begin{wrapfigure}[4]{l}{1.75cm}\vspace{-\baselineskip}\includegraphics[width=1.5cm]{../retejo.png}\end{wrapfigure}
 	האתר של החוברת הוא \url{http://xpr.digitalwords.net/ukulele} (קוד \L{QR} בצד שמאל). באתר מידע נוסף וקישורים, כמו גם כל קבצי המקור של החוברת וקובץ מוכן להדפסה (אם תרצו ליצור עותק נוסף או לקרוא במחשב). את הטבלטורות הכנתי בעזרת התוכנה החופשית \L{TuxGuitar}\footnote{זו תוכנה פשוטה, מדי, שנעדרת כמה תכונות בסיסיות; כך, לדוגמה, בחלק מהמקומות מופיע בתווים „סול במול” במקום „פה דיאז”, ולא מצאתי דרך לשנות את זה. גם הסימון של ${1}\over{16}$ יחידים לא ברור מספיק, ואין תמיכה בתיבות שאינן שלמות.}; היא זמינה להורדה בכתובת \url{http://tuxguitar.com.ar}. אם תפתחו את קבצי המקור של המנגינות (סיומת \texttt{.tg}) בתוכנה הזאת תוכלו לשמוע אותן כשבזמן אמת מסומן המקום המתאים בטבלטורה ובתווים, כמו גם אופן הנגינה על ציור סכימטי של אוקוללה.
 
 החוברת הזאת חופשית (נחלת הכלל, \L{public domain}): אתם יכולים להעתיק, לשנות, להפיץ ולהשתמש בה כרצונכם.

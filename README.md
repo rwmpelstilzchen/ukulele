@@ -1,4 +1,4 @@
-## Ukulelo por komencantoj<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
+## Ukulele Facilele<br />Ukulele for beginners<br />אוּקַלֵּיקַלּוּת
 
 Facilaj [entabulaturigitaj](https://eo.wikipedia.org/wiki/Tabulaturo) muzikaĵoj por la [ukulelo](https://eo.wikipedia.org/wiki/Ukulelo), konvenaj por komencantoj.  
 Dosierformoj: [PDF](https://eo.wikipedia.org/wiki/Portebla_dokumentformo) (por ludi), [MIDI](https://eo.wikipedia.org/wiki/MIDI) (por aŭskulti) kaj [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar) (fonto, por redakti).
@@ -24,11 +24,11 @@ dosiero          | latina/origina alfabete              | hebrea alfabete       
 `dovregubbens`   | [I Dovregubbens hall][ŝ] (no)        | בהיכלו של מלך־ההר            | 👑          | [Edvard Grieg][s] (no)
 `dugit`          | *Dugit Nosaʾat*                      | [דוגית נוסעת][5]             | ⛵          | [Lev Ŝvarc][h] (he) / popola
 `elise`          | [Für Elise][ך]                       | [לאליזה][ל]                  | 𝆏          | [Ludwig van Beethoven][8] (de)
-`erev`          | *Erev mul ha Gilʾad*                 | [ערב מול הגלעד][l]           | 🐑          | [Miki Gavrielov][m] (he)
+`erev`           | *Erev mul ha Gilʾad*                 | [ערב מול הגלעד][l]           | 🐑          | [Miki Gavrielov][m] (he)
 `freude`         | [An die Freude][3] (de)              | [אוֹדָה לשמחה][6]              | ☺          | [Ludwig van Beethoven][8] (de)
 `greensleeves`   | [Greensleeves][%] (en)               | [שרוולים ירוקים][^]          | 👕          | popola
 `ima`            | *Ima Jekara Li*                      | [אמא יקרה לי][ĵ]             | ♥          | [Naĥum Nardi][k] (he)
-`jakinton`       | *Pizmon la Jakinton*                 | [פזמון ליקינטון][e]          | 🌛          | [Rivka Gvili][f] (he)
+`jakinton`       | *Pizmon la Jakinton*                 | [פזמון ליקינטון][f]          | 🌛          | [Rivka Gvili][e] (he)
 `jomuledet`      | *Hajom Jomuledet*                    | [היום יום־הולדת][g]          | 🎈          | [Varda Gilboa][ĝ] (he)
 `jonatan`        | *Jonatan ha Katan*                   | [יונתן הקטן][4]              | 🌳          | popola
 `kalinka`        | [Калинка][ה] (ru)                    | [קלינקה][ו]                  | ❄          | [Ivan Larionov][ז] (ru)
@@ -50,7 +50,7 @@ dosiero          | latina/origina alfabete              | hebrea alfabete       
 `taxtaxtax`      | *Jomuledet*                          | [יום־הולדת][ט]               | 🎈          | popola
 `volga`          | [Эй, ухнем!][י]                      | שיר סיראי הוולגה             | ⛵          | popola
 `washerwoman`    | [The Irish Washerwoman][פ]           | הכובסת האירית                | 💧          | popola
-`zebra`         | *Lama Loveŝet ha Zebra Piĝama?       | [למה לובשת הזברה פיז׳מה?][ג] | 📅          | [Dubi Zelcer][ד] (he)
+`zebra`          | *Lama Loveŝet ha Zebra Piĝama?       | [למה לובשת הזברה פיז׳מה?][ג] | 📅          | [Dubi Zelcer][ד] (he)
 
 [1]: https://en.wikipedia.org/wiki/Harold_Arlen
 [2]: https://en.wikipedia.org/wiki/Over_the_Rainbow
