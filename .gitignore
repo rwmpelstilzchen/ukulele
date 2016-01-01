@@ -1,3 +1,8 @@
+out/
+arĥivo/
+penigaĵoj/
+kovrilo/
+
 *.acn
 *.acr
 *.alg
@@ -34,6 +39,3 @@
 *.vrb
 *.xdy
 *.tdo
-out/
-arĥivo/
-penigaĵoj/

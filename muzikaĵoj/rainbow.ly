@@ -1,6 +1,4 @@
 muziko = {
-  \key d \major
-  \time 4/4
   \repeat volta 2 {
 	<d\3>2 <d'\1>2
 	<cis'\1>4 <a\4>8 <b\1>8 <cis'\1>4 <d'\1>4
@@ -33,6 +31,18 @@ muziko = {
   <e\2>4 <cis\3>8 <d\3>8 <e\2>4 <fis\2>4
   <d\3>1
   \bar "|."
+}
+
+presado = {
+  \key c \major
+  \time 4/4
+  \displayLilyMusic \transpose d c {\muziko}
+}
+
+MIDI = {
+  \key c \major
+  \time 4/4
+  \transpose d c {\muziko}
 }
 
 \include "../muzikaĵoj/komuna.ly"

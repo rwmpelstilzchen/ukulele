@@ -1,6 +1,4 @@
 muziko = {
-  \tempo 4 = 180
-  \key ees \major
   \teeny
   s2 s4 ees8. ees16
   aes8 bes c' des' ees' r g8. g16
@@ -38,6 +36,19 @@ muziko = {
   aes8 bes c' des' ees' r g8. g16
   aes8 r aes'8. aes'16 aes'2
   \bar "|."
+}
+
+presado = {
+  \key ees \major
+  \time 4/4
+  \muziko
+}
+
+MIDI = {
+  \tempo 4 = 120
+  \key ees \major
+  \time 4/4
+  \muziko
 }
 
 \include "../muzikaĵoj/komuna.ly"

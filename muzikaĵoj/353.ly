@@ -23,4 +23,13 @@ muziko = {
   \bar "|."
 }
 
+presado = {
+  \muziko
+}
+
+MIDI = {
+  \tempo 4 = 120
+  \muziko
+}
+
 \include "../muzikaĵoj/komuna.ly"
