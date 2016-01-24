@@ -24,7 +24,6 @@ muziko = {
 	e d8 c d e |
 	d2.
   }
-
 }
 
 presado = {
