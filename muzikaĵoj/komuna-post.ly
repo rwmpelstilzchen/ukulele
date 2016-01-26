@@ -1,13 +1,17 @@
 \version "2.18.2"
 
+%\paper {
+%  ragged-bottom = ##t
+%  ragged-last-bottom = ##t
+%}
 
 #(set-global-staff-size 28)
 \paper {
   indent = 0\cm
   paper-width = 18.5\cm
   tagline = ""
-%  ragged-bottom = ##f
- % ragged-last-bottom = ##f
+  ragged-bottom = ##f
+  ragged-last-bottom = ##f
 }
 \score {
   <<

@@ -2,7 +2,8 @@
 % ⚙ צור משלו אכלנו
 % ⚙ מקיר: http://www.campin.me.uk/Music/Chalumeau.abc
 
-\include "../muzikaĵoj/komuna-pre.ly"
+\include "../muzikaĵoj/komuna-antaŭ.ly"
+
 
 muziko = {
   \time 4/4
@@ -35,4 +36,4 @@ MIDI = {
 }
 
 
-\include "../muzikaĵoj/komuna.ly"
+\include "../muzikaĵoj/komuna-post.ly"
