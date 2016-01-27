@@ -1,6 +1,7 @@
 % ⚙ La Rosa Enflorece / השושן הפורח / La ekfloranta rozo
 % ⚙ צור משלו אכלנו
-% ⚙ מקיר: http://www.campin.me.uk/Music/Chalumeau.abc
+% ⚙ מקור: http://www.campin.me.uk/Music/Chalumeau.abc
+% ⚙ תארוך: http://www.classical-scene.com/2012/12/18/sephardic/ (בקצרה: לא „מוזיקה מוקדמת/עתיקה”)
 
 \include "../muzikaĵoj/komuna-antaŭ.ly"
 

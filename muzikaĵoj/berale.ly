@@ -1,3 +1,5 @@
+% ⚙ http://zemer.co.il/song.asp?id=4312
+
 \include "../muzikaĵoj/komuna-antaŭ.ly"
 
 muziko = {
