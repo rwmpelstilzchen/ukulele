@@ -8,7 +8,7 @@
   komponisto-he = ""
   komponisto-eo = ""
   ikono         = ""
-  }
+}
 
 \include "../titolo.ly"
 

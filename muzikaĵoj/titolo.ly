@@ -6,7 +6,7 @@
 	  \line { \override #'(font-name . "Vesper Pro Bold") \fromproperty #'header:titolo-eo }
 	  \line {
 		\fontsize #2 \override #'(font-name . "Symbola") \fromproperty #'header:ikono
-		\bold \fromproperty #'header:titolo-xx
+		\override #'(font-name . "Vesper Pro Bold") \fromproperty #'header:titolo-xx
 	  }
 	  \line {
 		\override #'(font-name . "Rutz_OE Bold") \fromproperty #'header:titolo-he
