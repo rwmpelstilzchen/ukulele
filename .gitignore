@@ -2,6 +2,7 @@ out/
 arĥivo/
 penigaĵoj/
 kovrilo/
+tmp/
 
 *.acn
 *.acr

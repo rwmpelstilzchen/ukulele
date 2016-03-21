@@ -1,5 +1,16 @@
-\muzikajxo{אגדה}{Fabelo}{agada}{🌴}{חנינא קַרְצֶ׳בְסְקִי}{Ĥanina Karĉevski}
-\lily{\lilypondfile{muzikaĵoj/agada.ly}}
+\DTLloaddb{datumaro}{datumaro.csv}
+\DTLsort{title-he=ascending}{datumaro}
+
+\DTLforeach[\DTLiseq{\uone}{v}\and\DTLiseq{\filename}{birthday}]{datumaro}{\filename=filename,\titleeo=title-eo,\titlehe=title-he,\uone=u1}{%
+	{\filename} is {\titleeo} (heb: {\titlehe})\par
+	\includepdf{muzikaĵoj/\filename/\filename.pdf}
+}
+
+
+
+%⚙: להפיק מה־CSV
+%\muzikajxo{אגדה}{Fabelo}{agada}{🌴}{חנינא קַרְצֶ׳בְסְקִי}{Ĥanina Karĉevski}
+%\lily{\lilypondfile{muzikaĵoj/agada.ly}}
 %%%\muzikajxo{אוֹדָה לשמחה}{Odo al ĝojo}{freude}{☺}{לודוויג ון בטהובן}{Ludwig van Beethoven}
 %%%\lily{\lilypondfile{muzikaĵoj/freude.ly}}
 %%%\muzikajxo{אי־שם מעבר לקשת}{Trans ĉielarko}{rainbow}{🌈}{הרולד ארלן}{Harold Arlen}
