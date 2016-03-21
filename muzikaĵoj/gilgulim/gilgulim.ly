@@ -23,7 +23,7 @@ melodio = {
   a8 a a b c'4 c' |
   c8 c8 c8 d8 e2 |
   c8 c4 d8 e4 e4 |
-  d4 d4 c4. r8 |
+  d4 d4 c2 |
   \break
   c'8 g\4 c' g4.\4 g8\4 c' |
   c'8 b c'4 g2\4 |
