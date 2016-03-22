@@ -19,7 +19,7 @@ melodio = {
 	d8 d c4 d8 d c4 |
 	d f e c |
 	d c8 c d4 c |
-	d f8 f e4 c\fermata |
+	d8 d f4 e4 c\fermata |
   }
 }
 
