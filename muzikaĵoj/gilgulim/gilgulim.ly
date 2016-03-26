@@ -2,8 +2,8 @@
 
 \header {
   titolo-xx     = ""
-  titolo-he     = "גלגולים"
-  titolo-eo     = "Aliformiĝoj"
+  titolo-he     = "פלא: גלגולים"
+  titolo-eo     = "Mirindaĵo: Aliformiĝoj"
   komponisto-xx = ""
   komponisto-he = "עלמה זהר"
   komponisto-eo = "Alma Zohar"
