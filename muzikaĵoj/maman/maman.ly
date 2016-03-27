@@ -5,8 +5,8 @@
   titolo-he     = "שאגיד לך, אמא?"
   titolo-eo     = "Ha! ĉu mi diros al vi, panjo?"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "🔤"
 }
 

@@ -5,8 +5,8 @@
   titolo-he     = "השושן הפורח"
   titolo-eo     = "La ekfloranta rozo"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "🌹"
 }
 

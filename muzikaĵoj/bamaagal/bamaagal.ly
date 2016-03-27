@@ -5,8 +5,8 @@
   titolo-he     = "אני עומדת במעגל"
   titolo-eo     = "Mi staras en la cirklo"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "○"
 }
 

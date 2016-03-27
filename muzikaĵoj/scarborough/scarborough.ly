@@ -5,8 +5,8 @@
   titolo-he     = "יריד סקרבורו"
   titolo-eo     = "La foiro de Skarboro"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "🌿"
 }
 

@@ -5,8 +5,8 @@
   titolo-he     = "אני מאמין"
   titolo-eo     = "Mi kredas"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "💭"
 }
 

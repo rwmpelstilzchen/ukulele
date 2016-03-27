@@ -5,8 +5,8 @@
   titolo-he     = "ברל׳ה ברל׳ה"
   titolo-eo     = "Heliko heliko"
   komponisto-xx = ""
-  komponisto-he = "עממי"
-  komponisto-eo = "popola"
+  komponisto-he = ""
+  komponisto-eo = ""
   ikono         = "🐌"
 }
 
