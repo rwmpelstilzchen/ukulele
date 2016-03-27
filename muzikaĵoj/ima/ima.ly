@@ -13,7 +13,7 @@
 \include "../titolo.ly"
 
 melodio = {
-  \key c \major
+  \key d \minor
   \time 4/4
   \repeat volta 2 {
 	<d\3>4 <f\2>4 <e\2>4 <f\2>4 
