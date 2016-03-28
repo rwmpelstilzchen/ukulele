@@ -5,12 +5,12 @@ akordoj = { }
 #(set-global-staff-size 28)
 
 \paper {
-#(define fonts
-   (make-pango-font-tree
-	 "Rutz_OE Regular Pro"
-	 "Alef"
-	 "PragmataPro"
-	 (/ staff-height pt 20)))
+%#(define fonts
+%   (make-pango-font-tree
+%	 "Rutz_OE Regular Pro"
+%	 "Alef"
+%	 "Rutz_OE Regular Pro"
+%	 (/ staff-height pt 20)))
   indent = 0\cm
   %paper-width = 18.5\cm
   tagline = ##f
@@ -18,4 +18,4 @@ akordoj = { }
   %ragged-last-bottom = ##f
 }
 
-phrygian = #`((0 . ,NATURAL) (1 . ,FLAT) (2 . ,NATURAL) (3 . ,NATURAL) (4 . ,NATURAL) (5 . ,FLAT) (6 . ,FLAT))
+phrygiandominant = #`((0 . ,NATURAL) (1 . ,FLAT) (2 . ,NATURAL) (3 . ,NATURAL) (4 . ,NATURAL) (5 . ,FLAT) (6 . ,FLAT))

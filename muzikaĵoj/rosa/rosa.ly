@@ -15,7 +15,7 @@
 melodio = {
   \time 4/4
   \tempo 4 = 80
-  \key d \phrygian
+  \key d \phrygiandominant
   s2. s8 d                            | 
   g4.\4 a8 bes8.\4 a16 g8\4 bes       | 
   a8. g16\4 fis8 ees d4. d8           | 
