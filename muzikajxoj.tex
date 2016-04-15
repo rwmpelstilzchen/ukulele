@@ -1,11 +1,28 @@
-\DTLloaddb{datumaro}{datumaro.csv}
-\DTLsort{title-he=ascending}{datumaro}
+\newcommand{\muzrubriko}[2]{\dulingvasubtitolo{#1}{#2}}
+\newcommand{\pnurl}[1]{\endnote{\url{#1}}}
+\newcommand{\pnurletikedo}[2]{\endnote{\label{url:#2}\url{#1}}}
 
-\DTLforeach[\DTLiseq{\uone}{v}\and\DTLiseq{\filename}{birthday}]{datumaro}{\filename=filename,\titleeo=title-eo,\titlehe=title-he,\uone=u1}{%
-	{\filename} is {\titleeo} (heb: {\titlehe})\par
-	\includepdf{muzikaĵoj/\filename/\filename.pdf}
+\DTLloaddb{datumaro}{datumaro.csv}
+\DTLsort{titolo-he=ascending}{datumaro}
+
+\newcommand{\katenhavo}[1]{
+	\DTLforeach[\DTLiseq{\uone}{v}\and\DTLiseq{\kategorio}{#1}]{datumaro}{\dosiernomo=dosiernomo,\titoloeo=titolo-eo,\titolohe=titolo-he,\uone=u1,\kategorio=kategorio,\komponistohe=komponisto-he,\komponistoeo=komponisto-eo,\ikono=ikono}{%
+		\noindent
+		\parbox[t]{0.43\textwidth}{\noindent%
+				\textbf{\titolohe}~/ {\komponistohe}}
+		\parbox[t]{0.07\textwidth}{\centering\LR{\symbolglyph{\ikono} \Lat{\pageref{##2}}}}
+		\parbox[t]{0.50\textwidth}{\noindent%
+				\EO{\textbf{\titoloeo}~/ {\komponistoeo}}}\\[0.5ex]
+	}
 }
 
+\muzrubriko{שירים בעברית}{Hebrealingvaj kantoj}
+\katenhavo{he}
+
+\muzrubriko{מוזיקה מוקדמת}{Antikva muziko}
+\katenhavo{antikva}
+
+%\includepdf{muzikaĵoj/\dosiernomo/\dosiernomo.pdf}
 
 
 %⚙: להפיק מה־CSV

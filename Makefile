@@ -1,6 +1,6 @@
 all:
-	$(MAKE) -C muzikaĵoj
-	#latexmk -xelatex -file-line-error fanzino
+	#$(MAKE) -C muzikaĵoj
+	latexmk -xelatex -file-line-error fanzino
 
 pvc:
 	latexmk -silent -pvc -file-line-error fanzino
