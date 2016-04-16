@@ -12,7 +12,7 @@
 
 \include "../titolo.ly"
 
-\melodio = {
+melodio = {
   \key c \major
   \time 4/4
   \repeat volta 2 {
