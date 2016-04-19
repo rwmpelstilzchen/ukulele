@@ -20,7 +20,7 @@
 
 \score {
   \new Staff \with {midiInstrument = #"cello"} {
-	\unfoldRepeats	
+	%\unfoldRepeats	
 	<< \transpose c c' {\tempo 4 = 120 \melodio} \\ \transpose c' c, {\akordoj} >>
   }
   \midi { }
