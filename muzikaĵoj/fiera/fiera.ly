@@ -2,7 +2,7 @@
 
 \header {
   titolo-xx     = "Alla Fiera dell’Est"
-  titolo-he     = "חד גדיא"
+  titolo-he     = "חד עכברא"
   titolo-eo     = "En la orienta foiro"
   komponisto-xx = ""
   komponisto-he = "⚙"
